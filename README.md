@@ -1,6 +1,10 @@
 # Rainbow Rush
 
-A color-matching survival game for Roblox, built for the make.fun
+[![make.fun · roblox-game-01](https://make.fun/badge/roblox-game-01.svg)](https://make.fun/bounty/roblox-game-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+[![rank](https://make.fun/badge/roblox-game-01/nycthyraxo-oss/roblox-game-01/rank.svg)](https://make.fun/bounty/roblox-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+[![reward](https://make.fun/badge/roblox-game-01/nycthyraxo-oss/roblox-game-01/reward.svg)](https://make.fun/bounty/roblox-game-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-01)
+
+A color-matching survival game for Roblox, built for the [make.fun](https://make.fun/bounty/roblox-game-01)
 **roblox-game-01** bounty ("Make the best Roblox game", $250, top 20 share).
 
 ## The game
